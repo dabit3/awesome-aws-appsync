@@ -26,6 +26,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [Building Serverless React GraphQL Applications with AWS AppSync](https://tylermcginnis.com/building-serverless-react-graphql-apps-with-aws-appsync/)
 
 #### React Native
+- [Building AI Enabled GraphQL Applications](https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062)
 - [Tackling User Authorization in GraphQL with AWS AppSync](https://hackernoon.com/tackling-user-authorization-in-graphql-with-aws-appsync-7886aef60b4a)
 - [Code an App With GraphQL, React Native, and AWS AppSync: The Back-End](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-and-react-native--cms-30511)
 - [Code an App With GraphQL, React Native and AWS AppSync: The App](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-react-native-and-aws-appsync-the-app--cms-30569)
