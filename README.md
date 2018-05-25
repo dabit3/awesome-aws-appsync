@@ -1,5 +1,7 @@
 ![Awesome AWS AppSync](https://s3.amazonaws.com/aws-mobile-hub-images/awesomeappsync.jpg)
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and more. PRs are welcome!
 
 ## AppSync GraphQL Clients
