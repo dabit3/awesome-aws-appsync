@@ -26,6 +26,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 
 #### React
 - [Building Serverless React GraphQL Applications with AWS AppSync](https://tylermcginnis.com/building-serverless-react-graphql-apps-with-aws-appsync/)
+- [SSR GraphQL with Next.js & AWS AppSync](https://medium.com/open-graphql/ssr-graphql-apps-with-next-js-aws-appsync-eaf7fbeb1bde)
 
 #### React Native
 - [Building AI Enabled GraphQL Applications](https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062)
