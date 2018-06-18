@@ -91,6 +91,12 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [GraphQL events application using AWS AppSync](https://github.com/aws-samples/aws-mobile-appsync-events-starter-android)
 
 #### Other
+- [Serverless Application Model and custom resolver using Lamda with Go](https://github.com/sbstjn/appsync-resolvers-example)
 - [Serverless GraphQL Examples for AWS AppSync and Apollo](https://github.com/serverless/serverless-graphql)
 - [React State Museum](https://github.com/GantMan/ReactStateMuseum)
 
+## Tooling
+
+#### Go
+
+- [appsync-resolvers](https://github.com/sbstjn/appsync-resolvers)
