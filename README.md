@@ -24,6 +24,15 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 
 ## Tutorials - Blogs
 
+#### General
+- [Serverless GraphQL with AWS AppSync and Lambda](https://sbstjn.com/serverless-graphql-with-appsync-and-lambda.html)
+- [GraphQL authorization with multiple data sources using AWS AppSync](https://hackernoon.com/graphql-authorization-with-multiple-data-sources-using-aws-appsync-dfae2e350bf2)
+- [Build a Multi-user GraphQL Table with AWS AppSync](https://medium.com/@FizzyInTheHall/build-a-multi-user-graphql-table-with-aws-appsync-e2c8a9486b2a)
+- [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
+- [What’s new with AWS AppSync (April 2018)](https://itnext.io/whats-new-with-aws-appsync-april-2018-320d0c34024b)
+- [Rethinking REST Practices](https://itnext.io/rethinking-rest-practices-1efc56418980)
+- [Go Forth & AppSync](https://medium.com/@mwarger/go-forth-and-appsync-34450c277075)
+
 #### React
 - [Building Serverless React GraphQL Applications with AWS AppSync](https://tylermcginnis.com/building-serverless-react-graphql-apps-with-aws-appsync/)
 - [SSR GraphQL with Next.js & AWS AppSync](https://medium.com/open-graphql/ssr-graphql-apps-with-next-js-aws-appsync-eaf7fbeb1bde)
@@ -44,15 +53,6 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 
 #### Vue
 - [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9)
-
-#### General
-- [Serverless GraphQL with AWS AppSync and Lambda](https://sbstjn.com/serverless-graphql-with-appsync-and-lambda.html)
-- [GraphQL authorization with multiple data sources using AWS AppSync](https://hackernoon.com/graphql-authorization-with-multiple-data-sources-using-aws-appsync-dfae2e350bf2)
-- [Build a Multi-user GraphQL Table with AWS AppSync](https://medium.com/@FizzyInTheHall/build-a-multi-user-graphql-table-with-aws-appsync-e2c8a9486b2a)
-- [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
-- [What’s new with AWS AppSync (April 2018)](https://itnext.io/whats-new-with-aws-appsync-april-2018-320d0c34024b)
-- [Rethinking REST Practices](https://itnext.io/rethinking-rest-practices-1efc56418980)
-- [Go Forth & AppSync](https://medium.com/@mwarger/go-forth-and-appsync-34450c277075)
 
 ## Tutorials - Videos
 - [How to AWS AppSync (YouTube)](https://www.youtube.com/playlist?list=PLrHsRbHuA_HVl5q2mQ6q7wjTitskiUuu6)
