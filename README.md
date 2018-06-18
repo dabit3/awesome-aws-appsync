@@ -46,6 +46,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9)
 
 #### General
+- [Serverless GraphQL with AWS AppSync and Lambda](https://sbstjn.com/serverless-graphql-with-appsync-and-lambda.html)
 - [GraphQL authorization with multiple data sources using AWS AppSync](https://hackernoon.com/graphql-authorization-with-multiple-data-sources-using-aws-appsync-dfae2e350bf2)
 - [Build a Multi-user GraphQL Table with AWS AppSync](https://medium.com/@FizzyInTheHall/build-a-multi-user-graphql-table-with-aws-appsync-e2c8a9486b2a)
 - [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
