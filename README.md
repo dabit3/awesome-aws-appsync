@@ -69,6 +69,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [React Native Starter App - Serverless Pet Tracker](https://github.com/aws-samples/aws-mobile-react-native-starter)
 - [A real time React Native application built using GraphQL & AWS AppSync](https://github.com/dabit3/appsync-graphql-cities)
 - [GraphQL events app with realtime and offline functionality using AWS AppSync](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react-native)
+- [React Native Movies App: AWS AppSync, AWS Amplify, AWS Cognito, GraphQL, DynamoDB](https://github.com/pjay79/MoviesApp)
 - [Basic React Native Implementation](https://github.com/dabit3/basic-react-native-appsync)
 - [AI Enabled GraphQL with React Native](https://github.com/dabit3/appsync-lambda-ai)
 - [React Native example with user authentication & authorization](https://github.com/dabit3/appsync-react-native-with-user-authorization)
