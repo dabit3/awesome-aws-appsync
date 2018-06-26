@@ -101,3 +101,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 #### Go
 
 - [appsync-resolvers](https://github.com/sbstjn/appsync-resolvers)
+
+## Books
+
+- [Serverless GraphQL APIs with Amazon's AWS AppSync](https://www.amazon.com/Serverless-GraphQL-Amazons-AppSync-API-University-ebook/dp/B07DDD5NHF)
