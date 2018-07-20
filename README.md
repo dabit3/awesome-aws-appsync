@@ -5,7 +5,7 @@
 Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and more. PRs are welcome!
 
 ## AppSync GraphQL Clients
-- [AWS AppSync Apollo Client](https://github.com/awslabs/aws-mobile-appsync-sdk-js)
+- [AWS AppSync JavaScript SDK](https://github.com/awslabs/aws-mobile-appsync-sdk-js)
 - [AWS Amplify Client](https://github.com/aws/aws-amplify)
 - [AWS AppSync iOS SDK](https://github.com/awslabs/aws-mobile-appsync-sdk-ios)
 - [AWS AppSync Android SDK](https://github.com/awslabs/aws-mobile-appsync-sdk-android)
@@ -57,11 +57,8 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 ## Tutorials - Videos
 - [How to AWS AppSync (YouTube)](https://www.youtube.com/playlist?list=PLrHsRbHuA_HVl5q2mQ6q7wjTitskiUuu6)
 - [How to AWS AppSync (GitHub)](https://github.com/ifelsebranch/appsync-react-webapp)
-- [AWS AppSync - Creating a Serverless GraphQL Backend](https://www.youtube.com/watch?v=0Xbt7VqkJNc)
-- [Building a Real Time React Application with GraphQL & AWS AppSync](https://www.youtube.com/watch?v=qNkkPoq9D3k)
 - [AWS AppSync - User Authorization & Fine Grained Access Control](https://www.youtube.com/watch?v=p0mfjz6wZng)
 - [AWS AppSync Authorization with Amazon Cognito User Pools](https://www.youtube.com/watch?v=VKhLqBG7sdI)
-- [Building a YouTube aggregator from scratch with React Native, GraphQL, AWS Amplify & AWS AppSync](https://www.youtube.com/watch?v=GPxFaCMlFyc)
 
 ## Example Projects
 
