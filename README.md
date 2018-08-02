@@ -34,6 +34,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [Go Forth & AppSync](https://medium.com/@mwarger/go-forth-and-appsync-34450c277075)
 
 #### React
+- [Implementing Search in GraphQL](https://medium.com/open-graphql/implementing-search-in-graphql-11d5f71f179)
 - [Building Serverless React GraphQL Applications with AWS AppSync](https://tylermcginnis.com/building-serverless-react-graphql-apps-with-aws-appsync/)
 - [SSR GraphQL with Next.js & AWS AppSync](https://medium.com/open-graphql/ssr-graphql-apps-with-next-js-aws-appsync-eaf7fbeb1bde)
 - [AWS AppSync App with React and Apollo](https://gyandeeps.com/aws-appsync-graphql/)
