@@ -62,7 +62,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [How to AWS AppSync (GitHub)](https://github.com/ifelsebranch/appsync-react-webapp)
 - [AWS AppSync - User Authorization & Fine Grained Access Control](https://www.youtube.com/watch?v=p0mfjz6wZng)
 - [AWS AppSync Authorization with Amazon Cognito User Pools](https://www.youtube.com/watch?v=VKhLqBG7sdI)
-
+- [GraphQL in Motion](https://www.manning.com/livevideo/graphql-in-motion)
 ## Example Projects
 
 #### React Native
