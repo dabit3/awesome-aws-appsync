@@ -34,6 +34,9 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [Rethinking REST Practices](https://itnext.io/rethinking-rest-practices-1efc56418980)
 - [Go Forth & AppSync](https://medium.com/@mwarger/go-forth-and-appsync-34450c277075)
 
+#### AWS Amplify
+- [Build a GraphQL Service the easy way with AWS Amplify Model Transforms](https://medium.com/open-graphql/build-a-graphql-service-the-easy-way-with-aws-amplify-model-transforms-b3929b4f24c3)
+
 #### React
 - [Create a Multiuser GraphQL CRUD(L) Elasticsearch App in 10 minutes with the new AWS Amplify CLI ](https://medium.com/open-graphql/create-a-multiuser-graphql-crud-l-app-in-10-minutes-with-the-new-aws-amplify-cli-and-in-a-few-73aef3d49545)
 - [Implementing Search in GraphQL](https://medium.com/open-graphql/implementing-search-in-graphql-11d5f71f179)
