@@ -35,6 +35,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [Go Forth & AppSync](https://medium.com/@mwarger/go-forth-and-appsync-34450c277075)
 
 #### AWS Amplify
+- [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
 - [Build a GraphQL Service the easy way with AWS Amplify Model Transforms](https://medium.com/open-graphql/build-a-graphql-service-the-easy-way-with-aws-amplify-model-transforms-b3929b4f24c3)
 
 #### React
