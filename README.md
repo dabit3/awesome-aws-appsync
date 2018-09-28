@@ -63,6 +63,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [AWS AppSync - User Authorization & Fine Grained Access Control](https://www.youtube.com/watch?v=p0mfjz6wZng)
 - [AWS AppSync Authorization with Amazon Cognito User Pools](https://www.youtube.com/watch?v=VKhLqBG7sdI)
 - [GraphQL in Motion](https://www.manning.com/livevideo/graphql-in-motion)
+- [Learning Clientside GraphQL with Apollo](https://www.manning.com/livevideo/learning-clientside-graphql-with-apollo)
 ## Example Projects
 
 #### React Native
