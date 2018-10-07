@@ -69,6 +69,9 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 
 ## Example Projects
 
+#### Relay Modern
+-[A sample Relay app using AWS AppSync](https://github.com/aws-samples/aws-appsync-relay)
+
 #### React Native
 - [React Native Starter App - Serverless Pet Tracker](https://github.com/aws-samples/aws-mobile-react-native-starter)
 - [A real time React Native application built using GraphQL & AWS AppSync](https://github.com/dabit3/appsync-graphql-cities)
