@@ -66,6 +66,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [How to AWS AppSync (GitHub)](https://github.com/ifelsebranch/appsync-react-webapp)
 - [AWS AppSync - User Authorization & Fine Grained Access Control](https://www.youtube.com/watch?v=p0mfjz6wZng)
 - [AWS AppSync Authorization with Amazon Cognito User Pools](https://www.youtube.com/watch?v=VKhLqBG7sdI)
+- [Building an e-Commerce Loyalty App with GraphQL](https://www.youtube.com/watch?v=WOQIqRVzkas)
 
 ## Example Projects
 
@@ -86,6 +87,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [GraphQL events app with realtime and offline functionality using AWS AppSync ](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react)
 - [AWS AppSync Recipe App](https://github.com/dabit3/react-appsync-graphql-recipe-app)
 - [AWS AppSync GraphQL Photo Sample](https://github.com/aws-samples/aws-amplify-graphql)
+- [Unicorn Loyalty: E-Commerce Serverless GraphQL Loyalty Sample App](https://github.com/aws-samples/aws-serverless-appsync-loyalty)
 
 #### Angular
 - [GraphQL PWA chat app w/ realtime and offline functionality using AWS AppSync](https://github.com/aws-samples/aws-mobile-appsync-chat-starter-angular)
