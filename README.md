@@ -33,6 +33,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [What’s new with AWS AppSync (April 2018)](https://itnext.io/whats-new-with-aws-appsync-april-2018-320d0c34024b)
 - [Rethinking REST Practices](https://itnext.io/rethinking-rest-practices-1efc56418980)
 - [Go Forth & AppSync](https://medium.com/@mwarger/go-forth-and-appsync-34450c277075)
+- [Top 9 AWS AppSync Features You Didn’t Know About](https://medium.com/open-graphql/top-9-aws-appsync-features-you-didnt-know-about-57224075ffb1)
 
 #### AWS Amplify
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
