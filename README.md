@@ -25,6 +25,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 ## Tutorials - Blogs
 
 #### General
+- [Using AWS AppSync Pipeline Resolvers for GraphQL Authorization](https://medium.com/@crhuber/using-aws-appsync-pipeline-resolvers-for-graphql-authorization-d04bb7a8dc44)
 - [How to deploy a GraphQL API on AWS using the Serverless Framework](https://read.acloud.guru/deploy-a-graphql-service-on-aws-with-the-serverless-framework-7af8fc22a01d)
 - [Serverless GraphQL with AWS AppSync and Lambda](https://sbstjn.com/serverless-graphql-with-appsync-and-lambda.html)
 - [GraphQL authorization with multiple data sources using AWS AppSync](https://hackernoon.com/graphql-authorization-with-multiple-data-sources-using-aws-appsync-dfae2e350bf2)
@@ -34,6 +35,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [Rethinking REST Practices](https://itnext.io/rethinking-rest-practices-1efc56418980)
 - [Go Forth & AppSync](https://medium.com/@mwarger/go-forth-and-appsync-34450c277075)
 - [Top 9 AWS AppSync Features You Didn’t Know About](https://medium.com/open-graphql/top-9-aws-appsync-features-you-didnt-know-about-57224075ffb1)
+- [Build a serverless url shortener with AWS AppSync and React](https://medium.com/@jobwiegant.1975/build-a-serverless-url-shortener-with-aws-appsync-and-react-part-1-4f09f50b6f9f)
 
 #### AWS Amplify
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
@@ -46,6 +48,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [SSR GraphQL with Next.js & AWS AppSync](https://medium.com/open-graphql/ssr-graphql-apps-with-next-js-aws-appsync-eaf7fbeb1bde)
 - [AWS AppSync App with React and Apollo](https://gyandeeps.com/aws-appsync-graphql/)
 - [GraphQL made easy by AWS AppSync](https://medium.com/@jorgenlybeck94/graphql-made-easy-by-aws-appsync-21dfae586d51)
+- [Building a chat application using AWS AppSync and Serverless](https://serverless.com/blog/building-chat-appliation-aws-appsync-serverless/)
 
 #### React Native
 - [Building AI Enabled GraphQL Applications](https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062)
@@ -62,12 +65,19 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 #### Vue
 - [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9)
 
+#### Angular
+- [onic 4 + AppSync: Build a mobile app with a GraphQL backend - 4 Part Series](https://gonehybrid.com/ionic-4-appsync-build-a-mobile-app-with-a-graphql-backend-part-1/)
+
 ## Tutorials - Videos
+- [Scalable Offline-Ready GraphQL Applications with AWS AppSync & React](https://egghead.io/courses/scalable-offline-ready-graphql-applications-with-aws-appsync-react)
 - [How to AWS AppSync (YouTube)](https://www.youtube.com/playlist?list=PLrHsRbHuA_HVl5q2mQ6q7wjTitskiUuu6)
 - [How to AWS AppSync (GitHub)](https://github.com/ifelsebranch/appsync-react-webapp)
 - [AWS AppSync - User Authorization & Fine Grained Access Control](https://www.youtube.com/watch?v=p0mfjz6wZng)
 - [AWS AppSync Authorization with Amazon Cognito User Pools](https://www.youtube.com/watch?v=VKhLqBG7sdI)
 - [Building an e-Commerce Loyalty App with GraphQL](https://www.youtube.com/watch?v=WOQIqRVzkas)
+
+## Miscellaneous Videos
+- [AWS re:Invent 2018: Develop Cross-Platform Mobile Apps with React Native, GraphQL, & AWS](https://www.youtube.com/watch?v=38Y-XvMYpfA)
 
 ## Example Projects
 
