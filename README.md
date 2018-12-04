@@ -66,7 +66,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9)
 
 #### Angular
-- [onic 4 + AppSync: Build a mobile app with a GraphQL backend - 4 Part Series](https://gonehybrid.com/ionic-4-appsync-build-a-mobile-app-with-a-graphql-backend-part-1/)
+- [Ionic 4 + AppSync: Build a mobile app with a GraphQL backend - 4 Part Series](https://gonehybrid.com/ionic-4-appsync-build-a-mobile-app-with-a-graphql-backend-part-1/)
 
 ## Tutorials - Videos
 - [Scalable Offline-Ready GraphQL Applications with AWS AppSync & React](https://egghead.io/courses/scalable-offline-ready-graphql-applications-with-aws-appsync-react)
