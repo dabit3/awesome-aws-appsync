@@ -37,6 +37,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [Go Forth & AppSync](https://medium.com/@mwarger/go-forth-and-appsync-34450c277075)
 - [Top 9 AWS AppSync Features You Didn’t Know About](https://medium.com/open-graphql/top-9-aws-appsync-features-you-didnt-know-about-57224075ffb1)
 - [Build a serverless url shortener with AWS AppSync and React](https://medium.com/@jobwiegant.1975/build-a-serverless-url-shortener-with-aws-appsync-and-react-part-1-4f09f50b6f9f)
+- [AWS AppSync code-centric development using CloudFormation](https://blissful.cc/articles/aws-appsync-code-centric-development-using-cloudformation/)
 - [Merge AppSync and Github API into One GraphQL API (on AWS Lambda)](https://medium.com/@hiroyuki.osaki/merge-appsync-and-github-api-into-one-graphql-api-on-aws-lambda-8ea4c42c2db2)
 
 #### AWS Amplify
