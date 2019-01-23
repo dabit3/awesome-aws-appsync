@@ -25,6 +25,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 ## Tutorials - Blogs
 
 #### General
+- [Intro to AWS AppSync Pipeline Functions](https://medium.com/open-graphql/intro-to-aws-appsync-pipeline-functions-3df87ceddac1)
 - [Using AWS AppSync Pipeline Resolvers for GraphQL Authorization](https://medium.com/@crhuber/using-aws-appsync-pipeline-resolvers-for-graphql-authorization-d04bb7a8dc44)
 - [How to deploy a GraphQL API on AWS using the Serverless Framework](https://read.acloud.guru/deploy-a-graphql-service-on-aws-with-the-serverless-framework-7af8fc22a01d)
 - [Serverless GraphQL with AWS AppSync and Lambda](https://sbstjn.com/serverless-graphql-with-appsync-and-lambda.html)
@@ -36,6 +37,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [Go Forth & AppSync](https://medium.com/@mwarger/go-forth-and-appsync-34450c277075)
 - [Top 9 AWS AppSync Features You Didn’t Know About](https://medium.com/open-graphql/top-9-aws-appsync-features-you-didnt-know-about-57224075ffb1)
 - [Build a serverless url shortener with AWS AppSync and React](https://medium.com/@jobwiegant.1975/build-a-serverless-url-shortener-with-aws-appsync-and-react-part-1-4f09f50b6f9f)
+- [Merge AppSync and Github API into One GraphQL API (on AWS Lambda)](https://medium.com/@hiroyuki.osaki/merge-appsync-and-github-api-into-one-graphql-api-on-aws-lambda-8ea4c42c2db2)
 
 #### AWS Amplify
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
@@ -61,9 +63,11 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 #### Native Android
 - [Connect an Android Kotlin App to the cloud with AWS AppSync and Android ](https://medium.com/@FizzyInTheHall/connect-an-android-kotlin-app-to-the-cloud-with-aws-appsync-and-android-architecture-components-b36deaafe52c)
 - [Reading the AWS AppSync JSON configuration file in Android](https://medium.com/@FizzyInTheHall/reading-the-aws-appsync-json-configuration-file-in-android-5701e60f6bd1)
+- [Building Android Landmark App with AWS Amplify, Google Sign-In and GraphQL](https://medium.com/step-by-step-building-mobile-with-mobile-backend/building-landmark-app-with-aws-amplify-google-sign-in-with-graphql-61f52fb115d7)
 
 #### Vue
 - [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9)
+- [Using Appsync and Amplify with Vue](https://medium.com/@andrew.s.trigg/using-appsync-and-amplify-with-vue-f45ebef7276e)
 
 #### Angular
 - [Ionic 4 + AppSync: Build a mobile app with a GraphQL backend - 4 Part Series](https://gonehybrid.com/ionic-4-appsync-build-a-mobile-app-with-a-graphql-backend-part-1/)
