@@ -100,6 +100,7 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [React Native example with user authentication & authorization](https://github.com/dabit3/appsync-react-native-with-user-authorization)
 
 #### React
+- [AWS AppSync Chat](https://github.com/aws-samples/aws-appsync-chat)
 - [GraphQL events app with realtime and offline functionality using AWS AppSync ](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react)
 - [AWS AppSync Recipe App](https://github.com/dabit3/react-appsync-graphql-recipe-app)
 - [AWS AppSync GraphQL Photo Sample](https://github.com/aws-samples/aws-amplify-graphql)
