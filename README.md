@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and more. PRs are welcome!
+Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and more. PRs are welcome!   
 Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify)
 
 ## AppSync GraphQL Clients
