@@ -82,6 +82,8 @@ Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and
 - [Building an e-Commerce Loyalty App with GraphQL](https://www.youtube.com/watch?v=WOQIqRVzkas)
 
 ## Miscellaneous Videos
+- [AWS re:Invent 2018: Authentication & Authorization in GraphQL with AWS AppSync](https://www.youtube.com/watch?v=2U4RsbFO4bA)
+- [AWS re:Invent 2018: Ten Tips And Tricks for Improving Your GraphQL API with AWS AppSync](https://www.youtube.com/watch?v=CwLB0BRwIqE)
 - [AWS re:Invent 2018: Develop Cross-Platform Mobile Apps with React Native, GraphQL, & AWS](https://www.youtube.com/watch?v=38Y-XvMYpfA)
 
 ## Example Projects
