@@ -104,6 +104,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 
 #### React
 - [AWS AppSync Chat](https://github.com/aws-samples/aws-appsync-chat)
+- [AWS AppSync Chat with AI features - Chatbots, Image Recognition, Sentiment Analisys, Translation, Text2Speech](https://github.com/aws-samples/aws-appsync-chat-starter-react)
 - [GraphQL events app with realtime and offline functionality using AWS AppSync ](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react)
 - [AWS AppSync Recipe App](https://github.com/dabit3/react-appsync-graphql-recipe-app)
 - [AWS AppSync GraphQL Photo Sample](https://github.com/aws-samples/aws-amplify-graphql)
