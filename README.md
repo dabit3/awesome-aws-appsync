@@ -26,6 +26,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 ## Tutorials - Blogs
 
 #### General
+- [The three ways to execute a GraphQL query from React with AWS AppSync](https://medium.com/open-graphql/the-three-ways-to-execute-a-graphql-query-from-react-with-aws-appsync-and-how-to-choose-49450fb9f98)
 - [Intro to AWS AppSync Pipeline Functions](https://medium.com/open-graphql/intro-to-aws-appsync-pipeline-functions-3df87ceddac1)
 - [Using AWS AppSync Pipeline Resolvers for GraphQL Authorization](https://medium.com/@crhuber/using-aws-appsync-pipeline-resolvers-for-graphql-authorization-d04bb7a8dc44)
 - [How to deploy a GraphQL API on AWS using the Serverless Framework](https://read.acloud.guru/deploy-a-graphql-service-on-aws-with-the-serverless-framework-7af8fc22a01d)
@@ -53,6 +54,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [AWS AppSync App with React and Apollo](https://gyandeeps.com/aws-appsync-graphql/)
 - [GraphQL made easy by AWS AppSync](https://medium.com/@jorgenlybeck94/graphql-made-easy-by-aws-appsync-21dfae586d51)
 - [Building a chat application using AWS AppSync and Serverless](https://serverless.com/blog/building-chat-appliation-aws-appsync-serverless/)
+- [Building Chatt - A Real-time Multi-user GraphQL Chat App](https://dev.to/dabit3/building-chatt---a-real-time-multi-user-graphql-chat-app-3jik)
 
 #### React Native
 - [Building AI Enabled GraphQL Applications](https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062)
