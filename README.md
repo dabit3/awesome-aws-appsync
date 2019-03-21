@@ -1,6 +1,10 @@
-![Awesome AWS AppSync](https://s3.amazonaws.com/aws-mobile-hub-images/awesomeappsync.jpg)
+Hi everyone, we are migrating to the official [AWS AppSync Community repository](https://github.com/aws/aws-appsync-community). We welcome your Awesome AWS AppSync contributions at our new home. 
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+This repository and existing content is considered archived.
+
+---
+
+![Awesome AWS AppSync](https://s3.amazonaws.com/aws-mobile-hub-images/awesomeappsync.jpg)
 
 Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and more. PRs are welcome!   
 Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify)
