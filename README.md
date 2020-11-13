@@ -62,7 +62,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 
 #### React Native
 - [Building AI Enabled GraphQL Applications](https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062)
-- [Tackling User Authorization in GraphQL with AWS AppSync](https://hackernoon.com/tackling-user-authorization-in-graphql-with-aws-appsync-7886aef60b4a)
+- [Tackling User Authorization in GraphQL with AWS AppSync](https://medium.com/@dabit3/tackling-user-authorization-in-graphql-with-aws-appsync-7886aef60b4a)
 - [Code an App With GraphQL, React Native, and AWS AppSync: The Back-End](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-and-react-native--cms-30511)
 - [Code an App With GraphQL, React Native and AWS AppSync: The App](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-react-native-and-aws-appsync-the-app--cms-30569)
 - [Integrating Amazon Cognito Authentication with AWS AppSync on React Native](https://itnext.io/integrating-amazon-cognito-authentication-with-the-aws-appsync-graphql-client-4282afb6eee1)
