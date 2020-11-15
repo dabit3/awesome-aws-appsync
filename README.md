@@ -33,7 +33,6 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [The three ways to execute a GraphQL query from React with AWS AppSync](https://medium.com/open-graphql/the-three-ways-to-execute-a-graphql-query-from-react-with-aws-appsync-and-how-to-choose-49450fb9f98)
 - [Intro to AWS AppSync Pipeline Functions](https://medium.com/open-graphql/intro-to-aws-appsync-pipeline-functions-3df87ceddac1)
 - [Using AWS AppSync Pipeline Resolvers for GraphQL Authorization](https://medium.com/@crhuber/using-aws-appsync-pipeline-resolvers-for-graphql-authorization-d04bb7a8dc44)
-- [How to deploy a GraphQL API on AWS using the Serverless Framework](https://read.acloud.guru/deploy-a-graphql-service-on-aws-with-the-serverless-framework-7af8fc22a01d)
 - [Serverless GraphQL with AWS AppSync and Lambda](https://sbstjn.com/serverless-graphql-with-appsync-and-lambda.html)
 - [GraphQL authorization with multiple data sources using AWS AppSync](https://hackernoon.com/graphql-authorization-with-multiple-data-sources-using-aws-appsync-dfae2e350bf2)
 - [Build a Multi-user GraphQL Table with AWS AppSync](https://medium.com/@FizzyInTheHall/build-a-multi-user-graphql-table-with-aws-appsync-e2c8a9486b2a)
