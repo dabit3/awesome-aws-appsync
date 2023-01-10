@@ -39,6 +39,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [Top 9 AWS AppSync Features You Didn’t Know About](https://medium.com/open-graphql/top-9-aws-appsync-features-you-didnt-know-about-57224075ffb1)
 - [AWS AppSync code-centric development using CloudFormation](https://blissful.cc/articles/aws-appsync-code-centric-development-using-cloudformation/)
 - [Merge AppSync and Github API into One GraphQL API (on AWS Lambda)](https://medium.com/@hiroyuki.osaki/merge-appsync-and-github-api-into-one-graphql-api-on-aws-lambda-8ea4c42c2db2)
+- [AppSync: Resolving mutations directly off of Aurora Serverless](https://www.wednesday.is/writing-tutorials/appsync-resolving-mutations-directly-off-of-aurora-serverless)
 
 #### AWS Amplify
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
