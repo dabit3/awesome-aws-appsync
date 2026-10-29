@@ -105,6 +105,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [AWS AppSync Recipe App](https://github.com/dabit3/react-appsync-graphql-recipe-app)
 - [AWS AppSync GraphQL Photo Sample](https://github.com/aws-samples/aws-amplify-graphql)
 - [Unicorn Loyalty: E-Commerce Serverless GraphQL Loyalty Sample App](https://github.com/aws-samples/aws-serverless-appsync-loyalty)
+- [Enjoying The Show: real-time audience emotion dashboard using AppSync subscriptions and TensorFlow.js](https://github.com/GantMan/enjoytheshow)
 
 #### Angular
 - [GraphQL PWA chat app w/ realtime and offline functionality using AWS AppSync](https://github.com/aws-samples/aws-mobile-appsync-chat-starter-angular)
